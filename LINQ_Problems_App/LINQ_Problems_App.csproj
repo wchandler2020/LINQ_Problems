@@ -46,6 +46,7 @@
     <Compile Include="LQProblem1.cs" />
     <Compile Include="LQProblem2.cs" />
     <Compile Include="LQProblem3.cs" />
+    <Compile Include="LQProblem4.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

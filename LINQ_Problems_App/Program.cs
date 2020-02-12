@@ -14,8 +14,9 @@ namespace LINQ_Problems_App
             //lqProblem1.Output();
             //LQProblem2 lqProblem2 = new LQProblem2();
             //lqProblem2.Output();
-            LQProblem3 lqproblem3 = new LQProblem3();
-            lqproblem3.Output();
+            //LQProblem3 lqproblem3 = new LQProblem3();
+            LQProblem4 lqproblem4 = new LQProblem4();
+            lqproblem4.Output();
 
         }
     }
